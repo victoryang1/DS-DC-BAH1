@@ -5,7 +5,7 @@ The Course materials for General Assembly's Data Science course for Booz Allen H
 
 ## Slack
 
-You've all been invited to use [Slack](https://dsdc19.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students. Office Hours are listed Weekly on Slack in the Office Hours Channel
+You've all been invited to use [Slack](https://dsfundamentals.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students. Office Hours are listed Weekly on Slack in the Office Hours Channel
 
 ## Exit Tickets
 
