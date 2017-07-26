@@ -12,7 +12,7 @@
 | Extra Materials | Jupyter Notebook Practice | [Here](IpythonNotebookPractice/ipynb_practice1.ipynb) |
 | Solutions | Jupyter Notebook Practice Solutions | [Here](IpythonNotebookPractice/solution-code/ipynb_practice1-solution.ipynb) |
 | Extra Materials | Source Materials Adapted For This Lesson | [Here](IpythonNotebookPractice/assets/originals/) |
-
+| Extra Materials |  Git Flow Diagram | [Here](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/blob/master/Your-Development-Environment/assets/gitflow.jpg)|
 
 ---
 
