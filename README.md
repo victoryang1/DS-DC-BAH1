@@ -28,9 +28,9 @@ You've all been invited to use [Slack](https://dsfundamentals.slack.com) for cha
 |   |      | [Your Development Environment](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/Your-Development-Environment) | | [iPython Notebook Practice](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/Your-Development-Environment/IpythonNotebookPractice) |
 |   |      | [Python Fundamentals : Part 1](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/Python-Foundations) |  | |
 | 2 | 7/28 | [Python Fundamentals : Part 2](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/Python-Foundations) |  | |
-|   |      | Review & Project 1 Workshop |  | |
-|   |      | Statistics Review  |  | |
-|   |      | Stats and Visualization in Python  |  | |
+|   |      | [Review & Project 1](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/Unit-1-Project) |  | |
+|   |      | [Statistics Review](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/Statistics-Review)  |  | |
+|   |      | [Statistics Part 2](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/more-statistics-and-visualizations)  |  | |
 | 3 | 8/4  | Exploratory Data Analysis |  | |
 |   |      | Data Visualization in Python  |  | |
 |   |      | Review and Project 2 Workshop   |  | |
