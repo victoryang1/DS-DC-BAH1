@@ -25,37 +25,33 @@
 
 ## Lesson Outline
 
+- Lesson Guide
+- Learning Objectives
+- Linear regression basics
+  - Why use Linear Regression?
+  - How is a Linear Regression Calculated
+- Overview of supervised learning
 - Introduce the bikeshare dataset
   - Read in the Capital Bikeshare data
   - Visualizing the data
-- Linear regression basics
-  - Form of linear regression
-- Overview of supervised learning
-  - Benefits and drawbacks of scikit-learn
-  - Requirements for working with data in scikit-learn
+- Introduction to SKLearn
   - Building a linear regression model in sklearn
   - scikit-learn's 4-step modeling pattern
-- Build a linear regression model
 - Using the model for prediction
-  - Does the scale of the features matter?
+- Does the scale of the features matter?
 - Work with multiple features
-  - Visualizing the data (part 2)
-  - Adding more features to the model
+- Adding more features to the model
 - What is Multicollinearity?
-- How to select a model
-  - Feature selection
-  - Evaluation metrics for regression problems
-  - Comparing models with train/test split and RMSE
-  - Comparing testing RMSE with null RMSE
+- Model Evaluation
+- Evaluation metrics for regression problems
+- Comparing linear regression with other models
+**Bonus Topics**
 - Feature engineering to improve performance
-  - Handling categorical features
-  - Feature engineering
-- Bonus material: Regularization
+- Regularization
   - How does regularization work?
   - Lasso and ridge path diagrams
   - Advice for applying regularization
   - Ridge regression
-- Comparing linear regression with other models
 
 
 ---
