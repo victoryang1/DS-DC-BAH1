@@ -34,8 +34,8 @@ You've all been invited to use [Slack](https://dsfundamentals.slack.com) for cha
 | 3 | 8/4  | [Exploratory Data Analysis](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/exploratory-data-analysis) |  | |
 |   |      | [Data Visualization in Python](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/visualizations)  |  | |
 |   |      | [Review and Project 2 Workshop](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/unit-2_project)   |  | |
-| 4 | 8/11 | Linear Regression |  | |
-|   |      | Train-Test Split & Bias Variance |  | |
+| 4 | 8/11 | [Linear Regression](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/linear-regression) |  | |
+|   |      | [Train-Test Split & Bias Variance](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/train-test-split-and-bias-variance) |  | |
 | 5 | 8/18 | KNN / Classification|  | |
 |   |      | Logistic Regression |  | |
 | 6 | 8/25 | Review and Project 3 Workshop   |  | |
