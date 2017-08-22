@@ -2,13 +2,13 @@
 
 > See below for specific deliverable requirements
 
-| Deliverables | Due |
-| --- | --- | 
-| [Part 1: Pitch](#pitch)        |  Aug. 28th |
-| [Part 2: Proposal](#proposal)     | Aug. 28th |
-| [Part 3: EDA](#eda)           | Sep. 8th |
-| [Part 4: Notebook](#notebook)      | Sep. 8th/15th |
-| [Part 5: Presentation](#presentation)  | Noon Sep. 15th |
+| Deliverables | Due | Expectation |
+| --- | --- | --- |
+| [Part 1: Pitch](#pitch)        |  Aug. 28th | Pitch sent to and approved by one of your instructors. |
+| [Part 2: Proposal](#proposal)     | Aug. 28th | Proposal and Data sent to and approved by one of your instructors. |
+| [Part 3: EDA](#eda)           | Sep. 8th | Completed all of your planned EDA and have started the modelling process. |
+| [Part 4: Notebook](#notebook)      | Sep. 8th/15th | Most of you analysis and modeling in python should be completed before the 15th.  The final day should be for any additional touch ups that need to be made.
+| [Part 5: Presentation](#presentation)  | Noon Sep. 15th | Most of the morning should be spent constructing your presentation. | 
 
 ---
 
