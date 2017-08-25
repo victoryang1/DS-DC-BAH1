@@ -36,11 +36,11 @@ You've all been invited to use [Slack](https://dsfundamentals.slack.com) for cha
 |   |      | [Review and Project 2 Workshop](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/unit-2_project)   |  | |
 | 4 | 8/11 | [Linear Regression](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/linear-regression) |  | |
 |   |      | [Train-Test Split & Bias Variance](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/train-test-split-and-bias-variance) |  | |
-| 5 | 8/18 | KNN / Classification|  | |
-|   |      | Logistic Regression |  | |
-| 6 | 8/25 | Review and Project 3 Workshop   |  | |
-|   |      | Getting Data from API's  |  | |
-|   |      | NLP   |  | |
+| 5 | 8/18 | [KNN / Classification](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/knn-classification)|  | |
+|   |      | [Logistic Regression](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/logistic-regression) |  | |
+| 6 | 8/25 | [Review and Project 3 Workshop](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/unit-3_project)   |  | |
+|   |      | [Getting Data from API's](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/getting-data-APIs)  |  | |
+|   |      | [NLP](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/natural-language-processing)   |  | |
 | 7 | 9/8  | FLEX: Decision Trees or Clustering   |  | |
-| 8 | 9/15 | Review and Project 4 Workshop  |  | |
+| 8 | 9/15 | [Review and Project 4 Workshop](https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/unit-4_project)  |  | |
 |   |      | Project Presentations  |  | |
