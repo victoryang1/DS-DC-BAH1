@@ -2,6 +2,10 @@
 
 The Course materials for General Assembly's Data Science course for Booz Allen Hamilton in Washington D.C. (7/21/17 - 9/15/17)
 
+## Capstones
+
+Refer to https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/tree/master/unit-4_project for capstone information.
+Submission links and instructions can be found in https://git.generalassemb.ly/ds-dc-19-bah-07-2017/DS-DC-BAH1/blob/master/unit-4_project/requirements.md .
 
 ## Slack
 
