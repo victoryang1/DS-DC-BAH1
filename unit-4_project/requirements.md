@@ -23,7 +23,7 @@ In the field of data science, projects are practical. One of the best ways to qu
 1. Generate 2–3 different possible problem statements (of at least 250 words each).
     - State the questions you seek to answer, data set suggestions, and possible challenges.
 2. Create a written pitch for each possibility that can be shared with your instructor and classmates.
-3. Submit you pitch via Slack to your instructors.
+3. Submit your pitch in this form https://docs.google.com/forms/d/e/1FAIpQLSfdjB96BaqT7seRGGNZHwsA2O8u1beO8ZXQUZ8jaII7tVlJ5Q/viewform?usp=sf_link.
 
 ---
 
@@ -44,7 +44,7 @@ As before, make sure to review the requirements and [suggested data sets](./data
    - Goals and success metrics
    - Risks or limitations
 3. Articulate the specific data set you've chosen and why.
-4. This information should be also be communicated via Slack to your instructors.
+4. This information should be also be communicated here https://docs.google.com/forms/d/e/1FAIpQLSflZVDk8s30_OaFeSAcRN4K_vQHuzxllgHNXz1lLHnJRY2jJQ/viewform.
 ---
 
 <a name="eda"></a>
